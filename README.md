@@ -70,7 +70,7 @@ The workflow identifies potential security issues, proposes fixes, waits for use
 ```bash
 project-root/
 ├── devagent/
-|   └── src/
+│   └── src/
 │       ├── App.jsx
 │       ├── App.css
 │       ├── index.jsx
