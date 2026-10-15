@@ -76,8 +76,8 @@ project-root/
 │       ├── index.jsx
 │       └── index.css
 ├── backend/
-|   └── schema/
-│   |   └──code.js
+│   └── schema/
+│   │   └──code.js
 │   └── app.js
 ├── fastapi/
 │   ├── graph/
