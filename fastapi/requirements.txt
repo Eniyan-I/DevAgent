@@ -1,0 +1,8 @@
+pip install "fastapi[standard]"
+pip install langchain-google-genai
+pip install langgraph
+pip install uvicorn
+pip install pymongo
+
+
+
